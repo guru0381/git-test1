@@ -11,7 +11,7 @@
 }
 nav{
   position: fixed;
-  background: #1b1b1b;
+  background: #1b1b1b; 
   width: 100%;
   padding: 10px 0;
   z-index: 12;
@@ -72,7 +72,7 @@ nav .menu{
   position: absolute;
   top: 52%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); 
   width: 100%;
   padding: 0 20px;
   text-align: center;
